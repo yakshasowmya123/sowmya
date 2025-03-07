@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Addition {
     public static void main(String[] args) {
         // Create a scanner object to take input from the user
+        testing with new line
         Scanner scanner = new Scanner(System.in);
 
         // Ask the user to input two numbers
